@@ -1,0 +1,3 @@
+﻿  Contest1.1.cpp
+C:\Users\Honor\source\repos\Contest1.1\Contest1.1\Contest1.1.cpp(27,21): warning C4101: MaxWeight: неиспользованная локальная переменная
+  Contest1.1.vcxproj -> C:\Users\Honor\source\repos\Contest1.1\x64\Debug\Contest1.1.exe
