@@ -1,0 +1,5 @@
+﻿  LabBTask4.1Ars.cpp
+C:\Users\Honor\source\repos\LabBTask4.1Ars\LabBTask4.1Ars\LabBTask4.1Ars.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Honor\source\repos\LabBTask4.1Ars\LabBTask4.1Ars\vector.h(63,1): warning C4715: Vector::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\Honor\source\repos\LabBTask4.1Ars\LabBTask4.1Ars\vector.h(68,1): warning C4715: Vector::operator[]: значение возвращается не при всех путях выполнения
+  LabBTask4.1Ars.vcxproj -> C:\Users\Honor\source\repos\LabBTask4.1Ars\LabBTask4.1Ars\x64\Debug\LabBTask4.1Ars.exe

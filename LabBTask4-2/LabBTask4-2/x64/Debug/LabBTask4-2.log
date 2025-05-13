@@ -1,0 +1,4 @@
+﻿  LabBTask4-2.cpp
+C:\Users\Honor\source\repos\LabBTask4-2\LabBTask4-2\LabBTask4-2.cpp(97,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Honor\source\repos\LabBTask4-2\LabBTask4-2\List.h(148,1): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+  LabBTask4-2.vcxproj -> C:\Users\Honor\source\repos\LabBTask4-2\x64\Debug\LabBTask4-2.exe

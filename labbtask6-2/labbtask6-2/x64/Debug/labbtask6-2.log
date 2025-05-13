@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  labbtask6-2.cpp
+C:\Users\Honor\source\repos\labbtask6-2\labbtask6-2\labbtask6-2.cpp(96,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  labbtask6-2.vcxproj -> C:\Users\Honor\source\repos\labbtask6-2\x64\Debug\labbtask6-2.exe

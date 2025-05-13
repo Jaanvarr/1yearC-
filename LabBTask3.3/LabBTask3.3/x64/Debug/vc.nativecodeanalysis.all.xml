@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Honor\source\repos\LabBTask3.3\LabBTask3.3\</FILEPATH>
+      <FILENAME>LabBTask3.3.cpp</FILENAME>
+      <LINE>71</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>Функция использует байты стека "24012".  Рассмотрите возможность перемещения некоторых данных в кучу.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>71</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

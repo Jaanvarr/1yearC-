@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Honor\\source\\repos\\LabBTask3.4-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5516C98B-D739-4D5E-BE4E-E6EDB2F570B1}|LabBTask3.4-2\\LabBTask3.4-2.vcxproj|C:\\Users\\Honor\\source\\repos\\LabBTask3.4-2\\LabBTask3.4-2\\LabBTask3.4-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5516C98B-D739-4D5E-BE4E-E6EDB2F570B1}|LabBTask3.4-2\\LabBTask3.4-2.vcxproj|solutionrelative:LabBTask3.4-2\\LabBTask3.4-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LabBTask3.4-2.cpp",
+              "DocumentMoniker": "C:\\Users\\Honor\\source\\repos\\LabBTask3.4-2\\LabBTask3.4-2\\LabBTask3.4-2.cpp",
+              "RelativeDocumentMoniker": "LabBTask3.4-2\\LabBTask3.4-2.cpp",
+              "ToolTip": "C:\\Users\\Honor\\source\\repos\\LabBTask3.4-2\\LabBTask3.4-2\\LabBTask3.4-2.cpp*",
+              "RelativeToolTip": "LabBTask3.4-2\\LabBTask3.4-2.cpp*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEEAAADMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T06:12:52.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

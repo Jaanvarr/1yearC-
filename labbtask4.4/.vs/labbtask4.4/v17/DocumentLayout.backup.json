@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Honor\\source\\repos\\labbtask4.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BACEDD74-FEC0-4C1D-9B16-243C91A39D30}|labbtask4.4\\labbtask4.4.vcxproj|C:\\Users\\Honor\\source\\repos\\labbtask4.4\\labbtask4.4\\labbtask4.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BACEDD74-FEC0-4C1D-9B16-243C91A39D30}|labbtask4.4\\labbtask4.4.vcxproj|solutionrelative:labbtask4.4\\labbtask4.4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACEDD74-FEC0-4C1D-9B16-243C91A39D30}|labbtask4.4\\labbtask4.4.vcxproj|C:\\Users\\Honor\\source\\repos\\labbtask4.4\\labbtask4.4\\ComplexNumber.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BACEDD74-FEC0-4C1D-9B16-243C91A39D30}|labbtask4.4\\labbtask4.4.vcxproj|solutionrelative:labbtask4.4\\ComplexNumber.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BACEDD74-FEC0-4C1D-9B16-243C91A39D30}|labbtask4.4\\labbtask4.4.vcxproj|C:\\Users\\Honor\\source\\repos\\labbtask4.4\\labbtask4.4\\ComplexNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BACEDD74-FEC0-4C1D-9B16-243C91A39D30}|labbtask4.4\\labbtask4.4.vcxproj|solutionrelative:labbtask4.4\\ComplexNumbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "corecrt_math.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_math.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_math.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_math.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_math.h",
+              "ViewState": "AgIAANUDAAAAAAAAAAAAAEgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-04T08:06:13.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "math.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\math.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\math.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\math.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\math.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-04T08:06:10.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComplexNumbers.cpp",
+              "DocumentMoniker": "C:\\Users\\Honor\\source\\repos\\labbtask4.4\\labbtask4.4\\ComplexNumbers.cpp",
+              "RelativeDocumentMoniker": "labbtask4.4\\ComplexNumbers.cpp",
+              "ToolTip": "C:\\Users\\Honor\\source\\repos\\labbtask4.4\\labbtask4.4\\ComplexNumbers.cpp",
+              "RelativeToolTip": "labbtask4.4\\ComplexNumbers.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-04T07:31:08.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComplexNumber.h",
+              "DocumentMoniker": "C:\\Users\\Honor\\source\\repos\\labbtask4.4\\labbtask4.4\\ComplexNumber.h",
+              "RelativeDocumentMoniker": "labbtask4.4\\ComplexNumber.h",
+              "ToolTip": "C:\\Users\\Honor\\source\\repos\\labbtask4.4\\labbtask4.4\\ComplexNumber.h",
+              "RelativeToolTip": "labbtask4.4\\ComplexNumber.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-01T12:31:01.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "labbtask4.4.cpp",
+              "DocumentMoniker": "C:\\Users\\Honor\\source\\repos\\labbtask4.4\\labbtask4.4\\labbtask4.4.cpp",
+              "RelativeDocumentMoniker": "labbtask4.4\\labbtask4.4.cpp",
+              "ToolTip": "C:\\Users\\Honor\\source\\repos\\labbtask4.4\\labbtask4.4\\labbtask4.4.cpp",
+              "RelativeToolTip": "labbtask4.4\\labbtask4.4.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-01T12:28:55.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

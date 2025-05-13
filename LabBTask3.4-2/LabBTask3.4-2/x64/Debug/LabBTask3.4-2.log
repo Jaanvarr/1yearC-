@@ -1,0 +1,3 @@
+﻿  LabBTask3.4-2.cpp
+C:\Users\Honor\source\repos\LabBTask3.4-2\LabBTask3.4-2\LabBTask3.4-2.cpp(88,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LabBTask3.4-2.vcxproj -> C:\Users\Honor\source\repos\LabBTask3.4-2\x64\Debug\LabBTask3.4-2.exe

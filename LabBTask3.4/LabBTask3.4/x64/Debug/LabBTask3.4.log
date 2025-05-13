@@ -1,0 +1,16 @@
+﻿  LabBTask3.4.cpp
+C:\Users\Honor\source\repos\LabBTask3.4\LabBTask3.4\LabBTask3.4.cpp(80,24): warning C4477: "sscanf_s": в строке форматирования "%[^,]" требуется аргумент типа "unsigned int", но вариативный аргумент "2" имеет тип "int *"
+      C:\Users\Honor\source\repos\LabBTask3.4\LabBTask3.4\LabBTask3.4.cpp(80,24):
+      этот аргумент используется в качестве размера буфера
+  
+C:\Users\Honor\source\repos\LabBTask3.4\LabBTask3.4\LabBTask3.4.cpp(80,24): warning C4473: "sscanf_s": передано недостаточно аргументов для строки формата
+      C:\Users\Honor\source\repos\LabBTask3.4\LabBTask3.4\LabBTask3.4.cpp(80,24):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 3, но было предоставлено 2
+      C:\Users\Honor\source\repos\LabBTask3.4\LabBTask3.4\LabBTask3.4.cpp(80,24):
+      отсутствующий вариативный аргумент "3" требуется для строки форматирования "%d"
+  
+C:\Users\Honor\source\repos\LabBTask3.4\LabBTask3.4\LabBTask3.4.cpp(99,54): warning C4474: "sprintf_s" : для строки формата передано слишком много аргументов
+      C:\Users\Honor\source\repos\LabBTask3.4\LabBTask3.4\LabBTask3.4.cpp(99,54):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  
+  LabBTask3.4.vcxproj -> C:\Users\Honor\source\repos\LabBTask3.4\x64\Debug\LabBTask3.4.exe

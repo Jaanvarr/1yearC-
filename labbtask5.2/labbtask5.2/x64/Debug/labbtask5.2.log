@@ -1,0 +1,12 @@
+﻿  labbtask5.2.cpp
+C:\Users\Honor\source\repos\labbtask5.2\labbtask5.2\labbtask5.2.cpp(56,47): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\Honor\source\repos\labbtask5.2\labbtask5.2\labbtask5.2.cpp(56,47): warning C4244:         with
+C:\Users\Honor\source\repos\labbtask5.2\labbtask5.2\labbtask5.2.cpp(56,47): warning C4244:         [
+C:\Users\Honor\source\repos\labbtask5.2\labbtask5.2\labbtask5.2.cpp(56,47): warning C4244:             _Ty=int
+C:\Users\Honor\source\repos\labbtask5.2\labbtask5.2\labbtask5.2.cpp(56,47): warning C4244:         ]
+C:\Users\Honor\source\repos\labbtask5.2\labbtask5.2\labbtask5.2.cpp(63,47): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+C:\Users\Honor\source\repos\labbtask5.2\labbtask5.2\labbtask5.2.cpp(63,47): warning C4244:         with
+C:\Users\Honor\source\repos\labbtask5.2\labbtask5.2\labbtask5.2.cpp(63,47): warning C4244:         [
+C:\Users\Honor\source\repos\labbtask5.2\labbtask5.2\labbtask5.2.cpp(63,47): warning C4244:             _Ty=int
+C:\Users\Honor\source\repos\labbtask5.2\labbtask5.2\labbtask5.2.cpp(63,47): warning C4244:         ]
+  labbtask5.2.vcxproj -> C:\Users\Honor\source\repos\labbtask5.2\x64\Debug\labbtask5.2.exe

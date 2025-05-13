@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Honor\\source\\repos\\labbtask6.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C5E101-1FFF-4D11-920A-CDE646A46DF4}|labbtask6.2\\labbtask6.2.vcxproj|C:\\Users\\Honor\\source\\repos\\labbtask6.2\\labbtask6.2\\labbtask6.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6C5E101-1FFF-4D11-920A-CDE646A46DF4}|labbtask6.2\\labbtask6.2.vcxproj|solutionrelative:labbtask6.2\\labbtask6.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "labbtask6.2.cpp",
+              "DocumentMoniker": "C:\\Users\\Honor\\source\\repos\\labbtask6.2\\labbtask6.2\\labbtask6.2.cpp",
+              "RelativeDocumentMoniker": "labbtask6.2\\labbtask6.2.cpp",
+              "ToolTip": "C:\\Users\\Honor\\source\\repos\\labbtask6.2\\labbtask6.2\\labbtask6.2.cpp",
+              "RelativeToolTip": "labbtask6.2\\labbtask6.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-30T10:53:52.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

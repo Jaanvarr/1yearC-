@@ -1,0 +1,7 @@
+﻿  labbtask4.7.cpp
+C:\Users\Honor\source\repos\labbtask4.7\labbtask4.7\labbtask4.7.cpp(84,16): error C2512: Vector: нет подходящего конструктора по умолчанию
+C:\Users\Honor\source\repos\labbtask4.7\labbtask4.7\labbtask4.7.cpp(82,14): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Honor\source\repos\labbtask4.7\labbtask4.7\labbtask4.7.cpp(95,16): error C2512: Vector: нет подходящего конструктора по умолчанию
+C:\Users\Honor\source\repos\labbtask4.7\labbtask4.7\labbtask4.7.cpp(93,14): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Honor\source\repos\labbtask4.7\labbtask4.7\labbtask4.7.cpp(106,20): error C2512: Vector: нет подходящего конструктора по умолчанию
+C:\Users\Honor\source\repos\labbtask4.7\labbtask4.7\labbtask4.7.cpp(110,18): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
